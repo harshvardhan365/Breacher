@@ -1,0 +1,4 @@
+dummyemail@gmail.com:pa$$w0rd:2023-01-15:123 Main St, Surat, State:+917892784161:Male:City, Country:SWIGGY.com:103.238.107.117
+dummyemail@gmail.com:student@lazyyyy:2003-01-15:123 street, Ahmedabad, State:+919878367291:Female:City, Country:Shaadi.com:103.238.107.117
+dummyemail@gmail.com:student@lazyyyy:2003-01-15:123 street, Ahmedabad, State:+919878367291:Female:City, Country:Instagram.com:103.238.107.117
+Jimmy@gmail.com:student@lazyyyy:2003-01-15:123 street, Gandhinagar, Gujarat:+919878367291:Female:Gandhinagar, Country:zomato.com:103.238.107.117

@@ -1,0 +1,5 @@
+Open CMD 
+
+Run this command 
+
+python main.py
